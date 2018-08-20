@@ -1,0 +1,1 @@
+# maxcoin-stratum
